@@ -3,6 +3,11 @@
 ## Project Description
 A decentralized application (dApp) built on the Stellar blockchain for leasing physical or digital assets. Asset owners can lease out items in exchange for Lumens (XLM), while smart contracts handle lease terms, payments, and automatic returns. The platform incorporates AI-powered trading bots to optimize asset pricing, lease terms, and market analysis.
 
+## Smart Contract Stellar
+ Contract Add  = CAKZGYGPW7PPEZWUWUM6QDW2XHMIH2WDFQEVRPEQWGBSGSREV466TQBN
+
+ https://stellar.expert/explorer/testnet/contract/CAKZGYGPW7PPEZWUWUM6QDW2XHMIH2WDFQEVRPEQWGBSGSREV466TQBN
+![alt text](image.png)
 ## Project Vision
 Our vision is to create a seamless, trustless marketplace for asset leasing that bridges the gap between physical and digital assets using blockchain technology. By leveraging the Stellar network's speed, low fees, and robust infrastructure, combined with AI-powered trading algorithms, we aim to democratize access to valuable assets while providing asset owners with a reliable income stream. The platform will eliminate intermediaries, reduce friction, and create new economic opportunities in the sharing economy.
 
